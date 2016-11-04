@@ -2,8 +2,8 @@
 //  PuzzleGameTests.m
 //  PuzzleGameTests
 //
-//  Created by Sabuj on 6/5/15.
-//  Copyright (c) 2015 Sabuj. All rights reserved.
+//  Created by Mahin Nur Islam on 6/5/16.
+//  Copyright (c) 2016 Mahin. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
